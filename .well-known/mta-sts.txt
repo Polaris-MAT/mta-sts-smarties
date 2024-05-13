@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-max_age: 16070000
+max_age: 2592000
 mx: smartiesnursery-org.mail.protection.outlook.com
